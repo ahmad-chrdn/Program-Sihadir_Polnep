@@ -21,7 +21,7 @@ Sihadir adalah aplikasi absensi mahasiswa yang dirancang untuk memudahkan proses
 ## Persyaratan Sistem
 
 - Server web (contoh: Apache, Nginx).
-- PHP 7.x.
+- PHP 8.x.
 - MySQL.
 
 ## Kontribusi
